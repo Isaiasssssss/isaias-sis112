@@ -1,2 +1,2 @@
 # isaias-sis112
-Programación 1 
+programacion 1 Isaias Gareca
